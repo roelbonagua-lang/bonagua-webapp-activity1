@@ -1,0 +1,6 @@
+{
+  "name": "WelHoop",
+  "description": "All-in-one Basketball Skill Development & Athlete Diet Tracker with relational SQLite database and Gemini AI Coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
